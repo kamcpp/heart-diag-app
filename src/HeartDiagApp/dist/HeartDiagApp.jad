@@ -1,5 +1,5 @@
-MIDlet-1: Midlet, ,heartdiagapp.HeartDiagAppMidlet
-MIDlet-Jar-Size: 19691
+MIDlet-1: Midlet, ,heartdiagapp.ui.HeartDiagAppMidlet
+MIDlet-Jar-Size: 23574
 MIDlet-Jar-URL: HeartDiagApp.jar
 MIDlet-Name: HeartDiagApp
 MIDlet-Vendor: Vendor

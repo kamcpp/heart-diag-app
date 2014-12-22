@@ -1,4 +1,4 @@
-MIDlet-1: Midlet, ,heartdiagapp.HeartDiagAppMidlet
+MIDlet-1: Midlet, ,heartdiagapp.ui.HeartDiagAppMidlet
 MIDlet-Vendor: Vendor
 MIDlet-Name: HeartDiagApp
 MIDlet-Version: 1.0
